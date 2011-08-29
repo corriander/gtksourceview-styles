@@ -3,7 +3,7 @@ To make use of them in GEdit (or other editors that make use of the gtksourcevie
 
 $ mkdir -p ~/.local/share/gtksourceview-2.0/styles
 $ git clone \
-	https://valeriupalos@github.com/valeriupalos/gtksourceview2-styles.git/ \ 
+	https://valeriupalos@github.com/valeriupalos/gtksourceview2-styles.git \ 
 	~/.local/share/gtksourceview-2.0/styles
 
 The license and copyright for the styles is written in each file respectively.
