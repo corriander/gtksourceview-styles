@@ -1,7 +1,10 @@
 These are a set of color styles gathered and slightly adjusted over time by me. I am not their creator, but I deemed it useful to have them all together in a repo.
 To make use of them in GEdit (or other editors that make use of the gtksourceview-2.0 component), just issue the following commands in a shell and restart your editor:
 
-$ mkdir -p ~/.local/share/gtksourceview-2.0/styles
+# Purge old files (just tp make sure).
+$ rm -rf ~/.local/share/gtksourceview-2.0/styles
+
+# Clone styles in-place.
 $ git clone git@github.com:valeriupalos/gtksourceview2-styles.git ~/.local/share/gtksourceview-2.0/styles
 
 The license and copyright for the styles is written in each file respectively.
