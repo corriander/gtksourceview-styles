@@ -41,7 +41,7 @@
   <style name="text" foreground="#black" background="white"/>
   <style name="selection" foreground="#black" background="#gray"/>
   <style name="cursor" foreground="#black"/>
-  <style name="current-line" background="#e7e7e7"/>
+  <style name="current-line" background="#f0f0f0"/>
   <style name="line-numbers" foreground="#gray" background="#white"/>
 
   <!-- Bracket Matching -->
