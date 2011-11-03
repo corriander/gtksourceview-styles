@@ -28,7 +28,6 @@
   <style name="search-match" background="highlight-blue"/>
   <style name="text" foreground="almost-black"/>
   <style name="selection" background="#grey" foreground="almost-black"/>
-  <style name="selection-unfocused" background="light-grey" foreground="almost-black"/>
 
   <style name="def:base-n-integer" foreground="magenta"/>
   <style name="def:boolean" foreground="green"/>
