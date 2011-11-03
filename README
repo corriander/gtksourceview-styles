@@ -1,10 +1,20 @@
 These are a set of color styles gathered and slightly adjusted or fixed over time by myself. I am not their creator, but I deemed it useful to have them all together in a repo along with the modifications I usually want on them.
 To make use of them in GEdit (or other editors that make use of the gtksourceview-2.0 component), just issue the following commands in a shell and restart your editor:
 
-# Purge old files (just to make sure).
+# 1. Purge old files (just to make sure).
+
+# for Gnome 2.x
 $ rm -rf ~/.local/share/gtksourceview-2.0/styles
 
-# Clone styles in-place.
-$ git clone http://github.com/valeriupalos/gtksourceview-2.0-styles.git ~/.local/share/gtksourceview-2.0/styles
+# for Gnome 3.x
+$ rm -rf ~/.local/share/gtksourceview-3.0/styles
+
+# 2. Clone styles in-place.
+
+# for Gnome 2.x
+$ git clone http://github.com/valeriupalos/gtksourceview-styles.git ~/.local/share/gtksourceview-2.0/styles
+
+# for Gnome 3.x
+$ git clone http://github.com/valeriupalos/gtksourceview-styles.git ~/.local/share/gtksourceview-3.0/styles
 
 The license and copyright for the styles is written in each file respectively. Enjoy!
