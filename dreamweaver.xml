@@ -28,7 +28,7 @@
   <style name="text"                        foreground="#black" background="#white"/>
   <style name="selection"                   foreground="#black" background="#gray"/>
   <style name="cursor"                      foreground="#black"/>
-  <style name="current-line"                background="#gray92"/>
+  <style name="current-line"                background="#f0f0f0"/>
   <style name="line-numbers"                foreground="#black" background="#gray"/>
 
   <!-- Bracket Matching -->
