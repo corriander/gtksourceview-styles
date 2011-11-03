@@ -106,5 +106,6 @@
 <!-- XML Styles -->
   <style name="xml:attribute-name" foreground="keyword"/>
   <style name="xml:element-name" foreground="keyword"/>
+  <style name="selection" background="#gray" foreground="#black"/>
 
 </style-scheme>

@@ -18,5 +18,6 @@
 	<style background="#bg" foreground="#darkgrey" name="def:preprocessor"/>
 	<style background="#bg" foreground="#bb9900" name="def:type"/>
 	<style background="#bg" foreground="#0055cc" name="def:function"/>
+  <style name="selection"                   foreground="#black" background="#gray"/>
 </style-scheme>
 

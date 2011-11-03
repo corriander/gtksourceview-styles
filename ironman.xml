@@ -17,5 +17,6 @@
 	<style background="#ccf7ee" foreground="#0000ff" name="def:specials"/>
 	<style foreground="#0000FF" name="def:statement"/>
 	<style foreground="#eb7950" name="def:type"/>
+  <style name="selection" background="#gray" foreground="#black"/>
 </style-scheme>
 

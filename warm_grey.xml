@@ -21,5 +21,6 @@
 	<style background="#e4e2e0" italic="false" name="diff:changed-line"/>
 	<style background="#c0e0d0" bold="true" name="diff:added-line"/>
 	<style background="#f0a0a0" name="diff:removed-line"/>
+  <style name="selection" background="#gray" foreground="#black"/>
 </style-scheme>
 
