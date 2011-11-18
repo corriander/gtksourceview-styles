@@ -51,7 +51,7 @@
 <!-- Bracket Matching -->
   <style name="bracket-match" background="highlight"/>
   <style name="bracket-mismatch" background="highlight" bold="true"/>
-  <style name="search-match" foreground="foreground" background="caret"/>
+  <style name="search-match" foreground="#fff" background="#369"/>
 
 <!-- Comments -->
   <style name="def:comment" foreground="comment" italic="false"/>
@@ -107,5 +107,6 @@
   <style name="xml:attribute-name" foreground="keyword"/>
   <style name="xml:element-name" foreground="keyword"/>
   <style name="selection" background="#gray" foreground="#black"/>
+  <style name="def:note" foreground="#ffa" background="#c30" bold="true"/>
 
 </style-scheme>

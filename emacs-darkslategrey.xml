@@ -29,16 +29,16 @@
   <author>Gustavo Carneiro</author>
   <_description>Dark color scheme, based on GNU Emacs, but with some modifications.</_description>
 
-  <color name="DarkSlateGray"               value="#2F4F4F"/>
+  <color name="DarkSlateGray"               value="#172F2F"/>
   <color name="Wheat"                       value="#F5DEB3"/>
-  <color name="DarkBlue"                    value="#00008B"/>
+  <color name="DarkBlue"                    value="#369"/>
   <color name="Orchid"                      value="#DA70D6"/>
 
 
   <!-- Global Settings -->
   <style name="text"                        foreground="Wheat" background="DarkSlateGray"/>
   <style name="selection"                   background="DarkBlue"/>
-  <style name="cursor"                      foreground="Orchid"/>
+<!--  <style name="cursor"                      foreground="Orchid"/> -->
   <style name="current-line"                background="#506050"/>
   <style name="line-numbers"                foreground="#grey" background="#black"/>
 

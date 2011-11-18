@@ -51,13 +51,13 @@
   <style name="def:identifier"              foreground="#dark blue"/>
 
   <!-- Statements -->
-  <style name="def:statement"               foreground="#0000FF" bold="false"/>
+  <style name="def:statement"               foreground="#0000FF" bold="true"/>
 
   <!-- Types -->
-  <style name="def:type"                    foreground="#0000FF" bold="false"/> 
+  <style name="def:type"                    foreground="#0000FF" bold="true"/> 
 
   <!-- Others -->
-  <style name="def:keyword"                 foreground="#007700" bold="false"/> 
+  <style name="def:keyword"                 foreground="#007700" bold="true"/> 
   <style name="def:preprocessor"            foreground="#blue"/>
   <style name="def:error"                   foreground="#0000FF" background="#white" bold="false"/>
   <style name="def:underlined"              italic="false" underline="true"/>

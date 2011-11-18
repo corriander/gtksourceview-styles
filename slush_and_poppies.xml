@@ -25,7 +25,7 @@
 
 <!-- Colors -->
 
-  <color name="off_white" value="#f8f8ff"/>
+  <color name="off_white" value="#f8f8f4"/>
   <color name="black" value="#000000"/>
   <color name="light_grey" value="#d9d9d9"/>
   <color name="medium_grey" value="#bfbfbf"/>
@@ -80,7 +80,7 @@
   
 <!-- Others -->
   <style name="def:error" foreground="off_white" background="dark_maroon" bold="true"/>
-  <style name="def:note" foreground="yellow" bold="true"/>
+  <style name="def:note" foreground="yellow" background="purple" bold="true"/>
   <style name="def:net-address-in-comment" foreground="steelblue3" italic="false" underline="true"/>
   <style name="def:preprocessor" color="maroon"/>
     

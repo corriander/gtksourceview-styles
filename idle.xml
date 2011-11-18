@@ -77,7 +77,7 @@
   
 <!-- Others -->
   <style name="def:error" foreground="white" background="maroon" bold="true"/>
-  <style name="def:note" foreground="red" bold="true"/>
+  <style name="def:note" foreground="#fff" background="#c30"  bold="true"/>
   <style name="def:net-address-in-comment" foreground="steelblue3" italic="false" underline="true"/>
   <style name="def:preprocessor" color="maroon"/>
     

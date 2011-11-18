@@ -37,7 +37,7 @@
   <!-- Others -->
   <style name="def:preprocessor" foreground="#CD5C5C"/>
   <style name="def:error" foreground="#yellow" background="#red" bold="true"/>
-<!--  <style name="def:note"                    background="butter1" foreground="aluminium4" bold="true"/> -->
-<!--  <style name="def:underlined"              italic="false" underline="true"/> -->
+  <style name="def:note" foreground="#ffa" background="#c30" bold="true"/>
+  <style name="search-match" background="#693" foreground="#fff" />
  
 </style-scheme>

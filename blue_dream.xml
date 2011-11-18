@@ -75,5 +75,6 @@
   <style name="def:error" foreground="#white" background="#red" bold="false"/>
   <style name="def:underlined" italic="false" underline="true" bold="false"/>
   <style name="latex:display-math" foreground="magenta1" bold="false"/> 
- 
+  <style name="def:note" foreground="#ffa" background="#c30" bold="true"/>
+  
 </style-scheme>

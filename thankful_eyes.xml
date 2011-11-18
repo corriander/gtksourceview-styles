@@ -37,7 +37,7 @@
   <color name="cool_as_ice"                   value="#6c8b9f"/>
   <color name="slate_blue"                    value="#4e5d62"/>
   <color name="eggshell_cloud"                value="#dee5e7"/>
-  <color name="krasna"                        value="#122B3B"/>
+  <color name="krasna"                        value="#122B36"/>
   <color name="aluminium1"                    value="#fefeec"/>
   <color name="scarletred2"                   value="#cc0000"/>
   <color name="butter3"                       value="#c4a000"/>
@@ -68,8 +68,8 @@
   <style name="def:doc-comment-element"     italic="false"/>
 
   <!-- Constants -->
-  <style name="def:constant"                foreground="pink_merengue" bold="true"/>   
-  <style name="def:string"                  foreground="dune" bold="true"/> 
+  <style name="def:constant"                foreground="pink_merengue" bold="false"/>   
+  <style name="def:string"                  foreground="dune" bold="false"/> 
   <style name="def:special-char"            foreground="backlit" bold="true"/>
   <style name="def:special-constant"        foreground="schrill" bold="true"/>
   <style name="def:floating-point"          foreground="backlit" bold="true"/>
