@@ -2,24 +2,23 @@
 <style-scheme id="autumn" name="Autumn" version="1.0">
 	<author/>
 	<_description>Autumn theme</_description>
-	<style background="#f7f7f7" foreground="#black" name="text"/>
-	<style background="#red" foreground="#black" name="cursor"/>
-	<style background="#447744" foreground="#aaeeaa" name="diff:added-line"/>
-	<style background="#ddbb55" foreground="#lightyellow" name="diff:changed-line"/>
-	<style background="#aaccaa" foreground="#336633" name="diff:removed-line"/>
-	<style background="#lightgrey" foreground="#brown" name="line-numbers"/>
-	<style background="#yellow" foreground="#black" name="search-match"/>
-	<style background="#bg" foreground="#977" name="def:comment"/>
-	<style background="#bg" foreground="#977" name="def:comment"/>
-	<style background="#bg" foreground="#bb6666" name="def:constant"/>
-	<style background="#bg" foreground="#darkcyan" name="def:specials" bold="true" />
-	<style background="#bg" foreground="#darkcyan" name="def:identifier" bold="true" />
-	<style background="#bg" foreground="#darkcyan" name="def:statement" />
-	<style background="#bg" foreground="#darkgrey" name="def:preprocessor"/>
-	<style background="#bg" foreground="#bb9900" name="def:type" bold="true" />
-	<style background="#bg" foreground="#0055cc" name="def:function" bold="true" />
-  <style name="selection"                   foreground="#black" background="#gray"/>
-  <style name="def:note" foreground="#ffa" background="#c30" bold="true"/>
-.
+	<style name="text" 							background="#f7f7f7" 		foreground="#black" />
+	<style name="cursor" 						background="#red" 			foreground="#black" />
+	<style name="diff:added-line" 	background="#447744" 		foreground="#aaeeaa" />
+	<style name="diff:changed-line" background="#ddbb55" 		foreground="#lightyellow" />
+	<style name="diff:removed-line" background="#aaccaa" 		foreground="#336633" />
+	<style name="line-numbers" 			background="#lightgrey" foreground="#brown" />
+	<style name="search-match" 			background="#yellow" 		foreground="#black" />
+	<style name="def:comment" 			background="#bg" 				foreground="#977" />
+	<style name="def:comment" 			background="#bg" 				foreground="#977" />
+	<style name="def:constant" 			background="#bg" 				foreground="#bb6666" />
+	<style name="def:specials" 			background="#bg" 				foreground="#darkcyan" 	bold="true"  />
+	<style name="def:identifier" 		background="#bg" 				foreground="#darkcyan" 	bold="true"  />
+	<style name="def:statement" 		background="#bg" 				foreground="#darkcyan"  />
+	<style name="def:preprocessor" 	background="#bg" 				foreground="#darkgrey" />
+	<style name="def:type" 					background="#bg" 				foreground="#bb9900" 		bold="true"  />
+	<style name="def:function" 			background="#bg" 				foreground="#0055cc" 		bold="true"  />
+  <style name="selection"         background="#gray" 			foreground="#black" />
+  <style name="def:note" 					background="#c30" 			foreground="#ffa" 			bold="true" />
 </style-scheme>
 
